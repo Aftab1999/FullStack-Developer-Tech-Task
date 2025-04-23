@@ -32,7 +32,7 @@ _Database User Table._
 
 - **Frontend**: React.js, Material-UI
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: Postgresql
 - **Authentication**: JSON Web Tokens (JWT)
 
 ## 📂 Project Structure
@@ -42,7 +42,7 @@ _Database User Table._
 ### Prerequisites
 
 - Node.js and npm installed
-- MongoDB instance running
+- Postgresql instance running
 
 ### Installation
 
