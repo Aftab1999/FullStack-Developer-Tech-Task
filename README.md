@@ -22,11 +22,14 @@ _Login Screen._
 ![Product Dashboard](screenshots/Screenshot1.png)
 _Admin view with product management capabilities._
 
+![Product view for customer](screenshots/Screenshot6.png)
+_Product view for customer._
+
 ![Database User Table](screenshots/Screenshot4.png)
 _Database User Table._
 
-![Database User Table](screenshots/Screenshot5.png)
-_Database User Table._
+![Database Products Table](screenshots/Screenshot5.png)
+_Database Products Table._
 
 ## 🧰 Tech Stack
 
