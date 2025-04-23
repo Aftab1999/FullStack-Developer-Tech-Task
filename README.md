@@ -13,11 +13,20 @@ A comprehensive full-stack application demonstrating user authentication and pro
 
 ## 🖼️ Screenshots
 
-![Login Page](screenshots/login.png)
-_Login interface for users._
+![Register Page](screenshots/Screenshot3.png)
+_Register Screen._
 
-![Product Dashboard](screenshots/product_dashboard.png)
+![Login Page](screenshots/Screenshot2.png)
+_Login Screen._
+
+![Product Dashboard](screenshots/Screenshot1.png)
 _Admin view with product management capabilities._
+
+![Database User Table](screenshots/Screenshot4.png)
+_Database User Table._
+
+![Database User Table](screenshots/Screenshot5.png)
+_Database User Table._
 
 ## 🧰 Tech Stack
 
@@ -45,15 +54,19 @@ _Admin view with product management capabilities._
 
    cd Backend
    npm install
+
+   DATABASE_URL=your_DB_connection_string
+   JWT_SECRET=your_jwt_secret
+
+   npm run dev
+
+   npm run dev
    ```
-
-npm run dev
-
-DATABASE_URL=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-
-npm run dev
 
 cd ../client
 npm install
 npm start
+
+```
+
+```
