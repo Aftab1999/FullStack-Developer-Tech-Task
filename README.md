@@ -50,7 +50,6 @@ _Database User Table._
 
    ```bash
    git clone https://github.com/Aftab1999/FullStack-Developer-Tech-Task.git
-   cd FullStack-Developer-Tech-Task
 
    cd Backend
    npm install
@@ -60,13 +59,9 @@ _Database User Table._
 
    npm run dev
 
+   cd ..
+
+   npm install
    npm run dev
+
    ```
-
-cd ../client
-npm install
-npm start
-
-```
-
-```
