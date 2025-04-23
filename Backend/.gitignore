@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Production build
+build/
+
+# dotenv environment variables file
+.env
+
+# Mac system files
+.DS_Store
